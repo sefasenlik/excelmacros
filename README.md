@@ -13,5 +13,13 @@ This repository holds some basic macros that I have modified/created for specifi
   
   TR: Bu Excel dosyası, basit bir kullanıcı arayüzünü ve Internet Explorer'da çalışan bir makroyu içerir. Dosyanın içerdiği araçlar yardımıyla 'Data' sekmesindeki POları otomatik olarak indirebilirsiniz. US hesaplarıyla beraber UK, AU ve CA Amazon Vendor hesapları için kullanılabilir. UYARI: İçeriği düzgün bir biçimde kullanabilmek için Amazon Vendor hesabınıza Internet Explorer üzerinden giriş yapmanız gerekmektedir.
   
+► PO Manager.xlsm  
+  
+  EN: This Excel file enables you to convert CSV files to XLSX, merge Excel files(.xlsx) into a single file with multiple sheets and merge included sheets into a single 'Combined' sheet. It is a tool created for Amazon Vendor purposes; however, included tools can be used for distinct intentions.
+  
+  TR: Bu Excel dosyasında CSV belgelerini XLSX formatına çevirebileceğiniz, ayrı Excel belgelerini(.xlsx) aynı dosyanın farklı sayfaları halinde birleştirebileceğiniz ve bu Excel dosyasının farklı sayfalarını 'Combined' adındaki tek bir sayfada birleştirebileceğiniz araçlar içerir. Bu Excel aslen Amazon Vendor düzenlemelerini kolaylaştırmak amacıyla tasarlanmıştır, fakat sunulan içerik farklı amaçlar için de kullanılabilir.
+
+
+
 ♥ GENERAL NOTE: You can always contact senliksefa@gmail.com when you need improvements/modifications on the provided content. I will do my best to help.
 ♥ GENEL NOT: Burada bulunan içeriklerin geliştirilmesine/modifikasyonuna ihtiyaç duyduğunuzda her zaman senliksefa@gmail.com'a e-posta atabilirsiniz. Yardımcı olmak için elimden geleni yapacağım.
