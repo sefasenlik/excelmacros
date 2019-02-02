@@ -1,5 +1,5 @@
 # excelmacros
-Various simple Excel macros.
+This repository holds some basic macros that I have modified/created for specific purposes. The explanation of the macros/files included are below: 
 
 •ParaCevirici.xlsm•
 
